@@ -1,0 +1,35 @@
+baseURL: https://pedramhayati.com
+languageCode: en-us
+title: Pedram Hayati
+theme: PaperMod
+
+params:
+  profileMode:
+    enabled: true
+    title: "Dr. Pedram Hayati"
+    subtitle: "(Cyber) Security Researcher | Serial Entrepreneur | Lecturer | Keynote Speaker | Baba"
+    imageUrl: "me.jpg" # optional
+    imageTitle: "Pedram Hayati" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+    buttons:
+      - name: Presentations
+        url: "/presentations/"
+      - name: Papers
+        url: "/papers/"
+      - name: Books
+        url: "/books/"
+      - name: Courses
+        url: "/courses/"
+      - name: Company
+        url: "https://secdim.com"
+      - name: Community
+        url: "https://sectalks.org"
+
+  socialIcons: # optional
+    - name: "Twitter"
+      url: "https://twitter.com/pi3ch"
+    - name: "Github"
+      url: "https://github.com/pi3ch"
+    - name: Mastodon
+      url: https://infosec.exchange/@pi3ch
