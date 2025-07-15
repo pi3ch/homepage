@@ -1,5 +1,4 @@
 ---
-date: '2025-07-13T21:43:29+10:00'
 draft: false
 title: 'Addressing New Generation of Spam Through Web Usage Models'
 author: 'Pedram Hayati'

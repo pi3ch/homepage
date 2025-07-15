@@ -15,16 +15,14 @@ params:
     buttons:
       - name: Presentations
         url: "/presentations/"
-      - name: Papers
-        url: "/papers/"
+      - name: Research
+        url: "/research/"
+      - name: Companies
+        url: "/companies/"
       - name: Books
         url: "/books/"
       - name: Courses
         url: "/courses/"
-      - name: Company
-        url: "https://secdim.com"
-      - name: Community
-        url: "https://sectalks.org"
 
   socialIcons: # optional
     - name: "Twitter"
@@ -33,3 +31,10 @@ params:
       url: "https://github.com/pi3ch"
     - name: Mastodon
       url: https://infosec.exchange/@pi3ch
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/pedram-hayati-07b2b525/"
+
+menu:
+  main:
+    - name: Home
+      url: "/"
