@@ -38,3 +38,7 @@ menu:
   main:
     - name: Home
       url: "/"
+
+caches:
+  images:
+    dir: :cacheDir/images
