@@ -2,13 +2,18 @@
 date: '2025-07-15T11:52:05+10:00'
 draft: false
 title: 'Defensive Cloud Native App and DevSecOps'
+cover:
+  image: "courses/defensive-coding.png"
+  alt: "Defensive Cloud Native App and DevSecOps"
+  caption: "Defensive Cloud Native App and DevSecOps"
+  relative: false
 ---
 
-I delivery this workshop through SecDim.
+I deliver this workshop through SecDim.
 You can find more information about this workshop and how to enroll at [SecDim Workshop](https://secdim.com/worshop).
 
-* Level: Beginner to intermediate
-* Duration: Starter: 2 days, Intermediate: 2 days, Advanced: 1 day
+* Level: Beginner to Advanced
+* Duration: 2-5 days
 * Delivery: In-person or Online
 * For: Software engineer, Security champion, Security engineer, AppSec & DevOps engineer, Code auditor, Penetration tester, Bug hunter
 

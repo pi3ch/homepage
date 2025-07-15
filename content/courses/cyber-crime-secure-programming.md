@@ -2,6 +2,11 @@
 date: '2020-07-15T11:52:05+10:00'
 draft: false
 title: 'Cyber Crime and Security Enhanced Programming'
+cover:
+  image: "courses/cyber-crime-secure-programming.png"
+  alt: "Cyber Crime and Security Enhanced Programming"
+  caption: "Cyber Crime and Security Enhanced Programming"
+  relative: false
 ---
 
 I rebuilt and lectured this course through Curtin University.
