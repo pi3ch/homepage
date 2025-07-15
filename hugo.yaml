@@ -4,6 +4,8 @@ title: Pedram Hayati
 theme: PaperMod
 
 params:
+  description: "This is a personal website of Dr. Pedram Hayati, a (Cyber) Security Researcher, Serial Entrepreneur, Lecturer, Keynote Speaker, and Baba."
+  author: "Pedram Hayati"
   profileMode:
     enabled: true
     title: "Dr. Pedram Hayati"
@@ -33,6 +35,18 @@ params:
       url: https://infosec.exchange/@pi3ch
     - name: "LinkedIn"
       url: "https://www.linkedin.com/in/pedram-hayati-07b2b525/"
+
+  label:
+    text: "Pedram Hayati"
+    icon: favicon.ico
+    iconHeight: 18
+
+  assets:
+    favicon: "favicon.ico"
+    favicon16x16: "favicon-16x16.png"
+    favicon32x32: "favicon-32x32.png"
+    apple_touch_icon: "apple-touch-icon.png"
+    webmanifest: "site.webmanifest"
 
 menu:
   main:
