@@ -2,6 +2,10 @@ baseURL: https://pedramhayati.com
 languageCode: en-us
 title: Pedram Hayati
 theme: PaperMod
+enableInlineShortcodes: true
+enableRobotsTXT: true
+pagination:
+  pagerSize: 5
 
 params:
   description: "This is a personal website of Dr. Pedram Hayati, a (Cyber) Security Researcher, Serial Entrepreneur, Lecturer, Keynote Speaker, and Baba."
