@@ -29,6 +29,7 @@ I founded [SecTalks](https://sectalks.org/), a community-driven initiative aimed
 I co-founded [elttam](https://elttam.com/), a boutique security consulting firm specialising in high-quality code-assisted penetration testing services for organizations of all sizes. Fun fact: "elttam" is an acronym formed from the last two letters of the three founders' first names—Daniel, Matt, and Pedram.
 
 ## Smart Honeypot
+![Smart Honeypot Logo](smarthoneypot.png)
 * 2014 - 2015
 * Proprietary Limited
 * Bootstrapped

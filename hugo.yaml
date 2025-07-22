@@ -5,11 +5,14 @@ theme: PaperMod
 enableInlineShortcodes: true
 enableRobotsTXT: true
 pagination:
-  pagerSize: 5
+  pagerSize: 10
 
 params:
   description: "This is a personal website of Dr. Pedram Hayati, a (Cyber) Security Researcher, Serial Entrepreneur, Lecturer, Keynote Speaker, and Baba."
   author: "Pedram Hayati"
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
   profileMode:
     enabled: true
     title: "Dr. Pedram Hayati"
@@ -29,6 +32,8 @@ params:
         url: "/books/"
       - name: Courses
         url: "/courses/"
+      - name: Blog
+        url: "/blog/"
 
   socialIcons: # optional
     - name: "Twitter"

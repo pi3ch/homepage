@@ -5,7 +5,7 @@ draft: false
 tags: ["security", "cloud", "research", "botnet"]
 ---
 
-My recent write-up on a summary of the research experiment ([botCloud](http://stratsec.blogspot.com.au/2012/10/botcloud-emerging-platform-for-cyber.html)) has got interesting international coverage. Here is quick responses to some of the comments:
+My recent write-up on a summary of the research experiment ([botCloud](/blog/botcloud-emerging-platform-for-cyber-attacks)) has got interesting international coverage. Here is quick responses to some of the comments:
 
 > "Computing is becoming cheaper and cheaper and for something like $10 one can buy enough computing power to take down a small website for a few hours," Costin Raiu, director of the Global Research & Analysis Team at antivirus vendor Kaspersky Lab, said Tuesday via email. "However, it's also important to say that 'traditional' methods of infecting users with trojans are probably even cheaper and much more resilient to takedowns." -- [CIO](https://web.archive.org/web/20140122213729/http://www.cio.com/article/720276/Lack_of_Abuse_Detection_Allows_Cloud_Computing_Instances_to_Be_Used_Like_Botnets_Study_Says)
 
