@@ -31,6 +31,10 @@ Some of my 0days before the "cyber" security hype.
 
 Machine learning, neural networks, spam detection, digital forensics, and cyber security.
 
+### 2013 - Machine learning
+
+- Elloumi, Mourad & Hayati, Pedram & Iliopoulos, Costas & Mirza, Jalil & Pissis, Solon & Shah, Arfaat. (2013). [Comparison for the detection of Virus and spam using pattern matching tools](https://www.researchgate.net/publication/261074313_Comparison_for_the_detection_of_Virus_and_spam_using_pattern_matching_tools). Technological Advances in Electrical, Electronics and Computer Engineering (TAEECE). 304-311. 10.1109/TAEECE.2013.6557291.
+
 ### 2012 - Cyber security, Machine learning
 
 - P. Hayati, V. Potdar. "[Spam 2.0 State of the Art](https://doi.org/10.4018/jdcf.2012010102)". International Journal of Digital Crime and Forensics (IJDCF). DOI: 10.4018/jdcf.2012010102, ISSN: 1941-6210, EISSN: 1941-6229. 2012.
