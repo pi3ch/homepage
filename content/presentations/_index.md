@@ -16,7 +16,6 @@ Deception defence, Hacking, Exploitation
 
 | Location       | Date       | Presentation Title                                                                 |
 |----------------|------------|------------------------------------------------------------------------------------|
-| 🇸🇬 OWASP AppSec Days | 2025   | AI and Its Impact on Secure Code Learning |
 | 🇩🇰 FirstCon | 2025   | Beyond the Hype: How Large Language Models Really Help (and Hinder) Vulnerability Remediation |
 | 🇵🇱 Code Europe | 2025   | Hacking LLM applications: trends and live secure coding lessons |
 | 🇦🇺 Programmable Sydney | 2025   | Jailbreaking and Protecting LLM Apps: A Public Wargame Experiment |
@@ -38,6 +37,7 @@ Deception defence, Hacking, Exploitation
 
 | Location       | Date       | Presentation Title                                                                 |
 |----------------|------------|------------------------------------------------------------------------------------|
+| 🇸🇬 OWASP AppSec Days | 2025   | 40,000 CVEs and Counting: The State of AppSec in 2025 |
 | 🇩🇰 FirstCon | 2025   | AppSec & DevSecOps Challenges |
 | 🇦🇺 NDC Melbourne | 2025   | Proactively defending your software |
 | 🇺🇸 DEF CON AppSec Village | 2025   | Web 3 and AppSec Challenges |
