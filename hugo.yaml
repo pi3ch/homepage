@@ -43,7 +43,7 @@ params:
     - name: Mastodon
       url: https://infosec.exchange/@pi3ch
     - name: "LinkedIn"
-      url: "https://www.linkedin.com/in/pedram-hayati-07b2b525/"
+      url: "https://www.linkedin.com/in/pedram-hayati-phd-07b2b525"
 
   label:
     text: "Pedram Hayati"
