@@ -229,11 +229,11 @@ Click on the three-dots menu (top right corner) and select “Export”.
 Save the dump as `.mct`. Keep this as your backup.
 
 Next, we are going to write an NDEF record. You can first try to write an empty NDEF record.
-Download [this empty NDEF layout dump](/blog/attachments/NDEF.mct), go to “Tools”, and select “Import/Export/Convert file”.
-Click on “Import Dump” and select the downloaded file.
+Download [this empty NDEF layout dump](/blog/attachments/NDEF.mct) and [keys](/blog/attachments/NDEF.keys), go to “Tools”, and select “Import/Export/Convert file”.
+Click on “Import Dump” and select the downloaded dump file. Then click on "Import Keys" and select the downloaded keys file.
 
 Next go to “Write Tag”, select “Write Dump (Clone)”, then select the dump file.
-Select all sectors (you should skip Sector 0 for most cards), put the card next to your phone’s NFC reader and click “OK”.
+Select all sectors (you should skip Sector 0 for most cards), selected the imported keys, put the card next to your phone’s NFC reader and click “OK”.
 
 ![MCT Write Dump](/blog/images/mct-write.webp)
 
