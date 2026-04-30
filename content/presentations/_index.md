@@ -16,6 +16,11 @@ Deception defence, Hacking, Exploitation
 
 | Location       | Date       | Presentation Title                                                                 |
 |----------------|------------|------------------------------------------------------------------------------------|
+| 🇦🇺 NDC Sydney | 2026   | Skill Degradation: An Empirical Analysis of 400+ AI‑Generated Security Fixes |
+| 🇦🇺 NDC Sydney | 2026   | Attack and Secure AI Apps - Wargame Edition |
+| 🇸🇬 Black Hat Asia | 2026   | AI RAG Wargame |
+| 🇬🇧 Black Hat EU | 2025   | AI Wargame |
+| 🇬🇧 NDC Manchester | 2025   | Skill Degradation: An Empirical Analysis of 400+ AI‑Generated Security Fixes |
 | 🇩🇰 FirstCon | 2025   | Beyond the Hype: How Large Language Models Really Help (and Hinder) Vulnerability Remediation |
 | 🇵🇱 Code Europe | 2025   | Hacking LLM applications: trends and live secure coding lessons |
 | 🇦🇺 Programmable Sydney | 2025   | Jailbreaking and Protecting LLM Apps: A Public Wargame Experiment |

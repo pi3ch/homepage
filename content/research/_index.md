@@ -8,6 +8,10 @@ title: 'Research'
 
 Some of my 0days before the "cyber" security hype.
 
+### 2026
+
+* [CVE-2026-27489](https://nvd.nist.gov/vuln/detail/CVE-2026-27489) - Path Traversal via Symlink in ONNX
+
 ### 2012
 
 * [CVE-2012-6554](https://nvd.nist.gov/vuln/detail/CVE-2012-6554) - Remote Code Injection
