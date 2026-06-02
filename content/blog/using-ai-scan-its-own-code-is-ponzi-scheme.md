@@ -90,7 +90,7 @@ Rule 4 cannot be trusted. The rulebook has no mechanism to see its own mistakes.
 
 When you use AI to audit AI-generated code, you are asking the rulebook to check itself. The two systems share the same training data, the same known vulnerability patterns, and the same conceptual boundaries. What they share equally are their blind spots. 
 
-## Why AI Security Scanning of Its Own Code Is Structurally Incapable
+## AI Security Scanning Structural Incapability
 
 The oracle problem and Gödel's theorem describe what is happening when you use AI to audit vibe coded software.
 
@@ -106,13 +106,13 @@ AI security tooling performs reasonably well right now. Most production code in 
 
 But this capability is a product of the current moment, not a property of the AI technology.
 
-### First Decay Vector: Vibe Coded Code Flooding the Training Data
+### First Decay Vector
 
 As vibe coding scales, the ratio of AI-generated code in open source grows. AI-generated code has different structural patterns, different ways of handling edge cases, and different architectural assumptions compared to human-written code. 
 
 **The vulnerability classes native to AI-generated code are not yet well documented because the code is new and attacks against it have not fully matured.** The AI scanner has no external signal telling it that its pattern library is becoming stale. It keeps producing security reports that look reasonable while the gap between what it can see and what actually exists widens.
 
-### Second Decay Vector: New Technologies, New Vulnerability Classes
+### Second Decay Vector
 
 New technologies consistently produce vulnerability classes that did not exist before them. 
 
