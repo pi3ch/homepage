@@ -16,6 +16,7 @@ Deception defence, Hacking, Exploitation
 
 | Location       | Date       | Presentation Title                                                                 |
 |----------------|------------|------------------------------------------------------------------------------------|
+| 🇺🇸 Black Hat USA | 2026   | AI RAG Wargame |
 | 🇳🇴 NDC Oslo | 2026   | Build Fast, Ship Secure: The Vibe Coder's Security Workshop |
 | 🇦🇺 NDC Sydney | 2026   | Skill Degradation: An Empirical Analysis of 400+ AI‑Generated Security Fixes |
 | 🇦🇺 NDC Sydney | 2026   | Attack and Secure AI Apps - Wargame Edition |
@@ -45,6 +46,7 @@ Deception defence, Hacking, Exploitation
 |----------------|------------|------------------------------------------------------------------------------------|
 | 🇦🇺 AISA Cybercon | 2026   | 50,000 CVEs and Counting: The State of AppSec in 2026 |
 | 🇦🇺 PyCon AU | 2026   | [50,000 CVEs and Counting: The State of AppSec in 2026](https://50000-cves-and-counting-a77b17.gitlab.io/) |
+| 🇺🇸 DEF CON AppSec Village | 2026   | Secure Coding Wargame (Fix The Flag) |
 | 🇸🇬 OWASP AppSec Days | 2025   | 40,000 CVEs and Counting: The State of AppSec in 2025 |
 | 🇩🇰 FirstCon | 2025   | AppSec & DevSecOps Challenges |
 | 🇦🇺 NDC Melbourne | 2025   | Proactively defending your software |
